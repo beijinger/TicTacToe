@@ -2,7 +2,7 @@
 
 namespace Ttt.Run
 {
-    public class WelcomPage
+    public class WelcomePage
     {
         private const int Krestik = 1;
         private const int Nolik = -1;
